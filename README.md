@@ -1,2 +1,0 @@
-# hospis
-help people
