@@ -1,0 +1,330 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Игорь <dybabiz@ya.ru>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 1.8.7\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Language: ru\n"
+
+#. Text in function
+#: Umbrella/inc/theme-functions.php:1
+msgid "Add New"
+msgstr "Добавить"
+
+#. Text in function
+#: Umbrella/inc/theme-functions.php:1
+msgid "Add New Item"
+msgstr "Добавить Новый Элемент"
+
+#. Text in function
+#: Umbrella/inc/theme-functions.php:1
+msgid "Add New Testimonial"
+msgstr "Добавить новый отзыв"
+
+#. Text in function
+#: Umbrella/inc/theme-functions.php:1
+msgid "Add New staff"
+msgstr "Новый сотрудник"
+
+#. Text in function
+#: Umbrella/inc/theme-functions.php:1
+msgid "All Items"
+msgstr "Все элементы"
+
+#. Text in echo
+#: Umbrella/index.php:20 Umbrella/single.php:15
+msgid "Blog"
+msgstr "Блог"
+
+#. Text in echo
+#: Umbrella/header.php:33
+msgid "Call us"
+msgstr "Позвоните нам"
+
+#. Text in echo
+#: Umbrella/homepage.php:153
+msgid "Checkout the latest articles on our Blog"
+msgstr ""
+
+#. Text in echo
+#: Umbrella/comments.php:62
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+#. Text in echo
+#: Umbrella/comments.php:81
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто"
+
+#. Text in echo
+#: Umbrella/footer.php:22
+msgid "Contact Us:"
+msgstr "Свяжитесь с нами:"
+
+#. Text in function
+#: Umbrella/template-parts/content-single.php:39
+#: Umbrella/single-fab_service.php:68
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Подробнее %s <span class=\"meta-nav\">&rarr;</span>"
+
+#. Text in function
+#: Umbrella/template-parts/content-page.php:29
+msgid "Edit %s"
+msgstr "Редактировать %s"
+
+#. Text in function
+#: Umbrella/inc/theme-functions.php:1
+msgid "Edit Item"
+msgstr "Редактировать"
+
+#. Text in function
+#: Umbrella/inc/theme-functions.php:1
+msgid "Featured Image"
+msgstr "Миниатюра записи"
+
+#. Text in function
+#: Umbrella/inc/theme-functions.php:1
+msgid "Filter items list"
+msgstr "Список пунктов фильтра"
+
+#. Text in function
+#: Umbrella/inc/theme-functions.php:1
+msgid "Insert into item"
+msgstr "Вставить в пункт"
+
+#. Text in echo
+#: Umbrella/404.php:29
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Ничего не было найдено. Может попробовать одну из следующих ссылок или новый поиск?"
+
+#. Text in echo
+#: Umbrella/template-parts/content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Кажется, мы не можем найти то, что Вы ищете. Попробуйте воспользоваться поиском по сайту."
+
+#. Text in function
+#: Umbrella/inc/theme-functions.php:1
+msgid "Item Archives"
+msgstr "Архив"
+
+#. Text in function
+#: Umbrella/inc/theme-functions.php:1
+msgid "Items list"
+msgstr "Список элементов"
+
+#. Text in function
+#: Umbrella/inc/theme-functions.php:1
+msgid "Items list navigation"
+msgstr "Список элементов навигации"
+
+#. Text in echo
+#: Umbrella/homepage.php:152
+msgid "Latest News"
+msgstr "Последние новости"
+
+#. Text in echo
+#: Umbrella/homepage.php:58
+msgid "Listed are our main services"
+msgstr "Ниже перечислены наши услуги"
+
+#. Text in echo
+#: Umbrella/homepage.php:107
+msgid "Listed are our main staff members"
+msgstr "Ниже перечислены наши сотрудники"
+
+#. Text in echo
+#: Umbrella/header.php:45
+msgid "Mail us"
+msgstr "Пишите нам"
+
+#. Text in function
+#: Umbrella/inc/theme-functions.php:1
+msgid "New Item"
+msgstr "Новый элемент"
+
+#. Text in function
+#: Umbrella/inc/theme-functions.php:1
+msgid "New Staff"
+msgstr "Новый сотрудник"
+
+#. Text in function
+#: Umbrella/comments.php:66
+msgid "Newer Comments"
+msgstr "Новые комментарии"
+
+#. Text in function
+#: Umbrella/inc/theme-functions.php:1
+msgid "Not found"
+msgstr "Не найдено"
+
+#. Text in function
+#: Umbrella/inc/theme-functions.php:1
+msgid "Not found in Trash"
+msgstr "Не найдено в корзине"
+
+#. Text in echo
+#: Umbrella/template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Найдено ничего"
+
+#. Text in function
+#: Umbrella/comments.php:65
+msgid "Older Comments"
+msgstr "Старые комментарии"
+
+#. Text in echo
+#: Umbrella/404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ой! Это страница не может быть найдена."
+
+#. Text in echo
+#: Umbrella/homepage.php:57
+msgid "Our Services"
+msgstr "Наши услуги"
+
+#. Text in echo
+#: Umbrella/homepage.php:106
+msgid "Our Staff"
+msgstr "Наша команда"
+
+#. Text in function
+#: Umbrella/template-parts/content-single.php:39
+#: Umbrella/template-parts/content-page.php:29
+msgid "Pages:"
+msgstr "Страницы:"
+
+#. Text in function
+#: Umbrella/inc/theme-functions.php:1
+msgid "Parent Item:"
+msgstr ""
+
+#. Text in echo
+#: Umbrella/footer.php:24
+msgid "Phone: "
+msgstr "Телефон:"
+
+#. Text in echo
+#: Umbrella/header.php:56
+msgid "Reach us"
+msgstr "Связаться с нами"
+
+#. Text in function
+#: Umbrella/template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свою первую запись? <a href=\"%1$s\">Начните здесь</a>."
+
+#. Text in function
+#: Umbrella/inc/theme-functions.php:1
+msgid "Remove featured image"
+msgstr "Удалить изображение"
+
+#. Text in function
+#: Umbrella/inc/theme-functions.php:1
+msgid "Restaurant staff members"
+msgstr ""
+
+#. Text in function
+#: Umbrella/inc/theme-functions.php:1
+msgid "Search Item"
+msgstr "Искать элемент"
+
+#. Text in function
+#: Umbrella/search.php:15
+msgid "Search Results for: %s"
+msgstr "Результаты поиска: %s"
+
+#. Text in function
+#: Umbrella/inc/theme-functions.php:1
+msgid "Service"
+msgstr "Услуги"
+
+#. Text in function
+#: Umbrella/inc/theme-functions.php:1
+msgid "Service items"
+msgstr ""
+
+#. Text in function
+#: Umbrella/inc/theme-functions.php:1
+msgid "Services"
+msgstr "Услуги"
+
+#. Text in function
+#: Umbrella/inc/theme-functions.php:1
+msgid "Set featured image"
+msgstr "Установить изображение"
+
+#. Text in function
+#: Umbrella/inc/theme-functions.php:1
+msgid "Slider"
+msgstr "Слайдер"
+
+#. Text in function
+#: Umbrella/inc/theme-functions.php:1
+msgid "Slider item"
+msgstr "Элемент слайда"
+
+#. Text in echo
+#: Umbrella/template-parts/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, но ничего не найдено. Пожалуйста, попробуйте еще раз с другими ключевыми словами."
+
+#. Text in function
+#: Umbrella/inc/theme-functions.php:1
+msgid "Staff"
+msgstr "Персонал"
+
+#. Text in function
+#: Umbrella/inc/theme-functions.php:1
+msgid "Testimonial"
+msgstr "Отзыв"
+
+#. Text in function
+#: Umbrella/inc/theme-functions.php:1
+msgid "Testimonials"
+msgstr "Отзывы"
+
+#. Text in echo
+#: Umbrella/homepage.php:197
+msgid "Testimonials from our patients"
+msgstr "Отзывы наших пациентов"
+
+#. Text in function
+#: Umbrella/inc/theme-functions.php:1
+msgid "Update Item"
+msgstr "Обновить элемент"
+
+#. Text in function
+#: Umbrella/inc/theme-functions.php:1
+msgid "Uploaded to this item"
+msgstr ""
+
+#. Text in function
+#: Umbrella/inc/theme-functions.php:1
+msgid "Use as featured image"
+msgstr "Использование в качестве миниатюры"
+
+#. Text in function
+#: Umbrella/inc/theme-functions.php:1
+msgid "User Testimonials"
+msgstr "Отзывы пользователей"
+
+#. Text in function
+#: Umbrella/inc/theme-functions.php:1
+msgid "View Item"
+msgstr "Посмотреть элемент"
+
+#. Text in echo
+#: Umbrella/homepage.php:196
+msgid "What our Patients Say"
+msgstr "Что говорят наши пациенты"
+
+#. Text in echo
+#: Umbrella/footer.php:26
+msgid "Working Time"
+msgstr "Рабочий график"
