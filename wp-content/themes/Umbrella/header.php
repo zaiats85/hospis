@@ -26,7 +26,7 @@
 
 	<header id="masthead" class="site-header" role="banner">
 		<div class="row">
-			<div class="columns medium-6">
+			<div class="columns medium-3">
 				<div class="site-branding">
 					
 	<?php if (get_theme_mod(FT_scope::tool()->optionsName . '_logo', '') != '') { ?>
@@ -37,6 +37,19 @@
 
 				</div><!-- .site-branding -->
 			</div>
+
+            <div class="columns medium-3">
+                <div class="donate-paypal">
+                    <form action="https://www.paypal.com/donate" method="post" target="_top">
+                        <input type="hidden" name="hosted_button_id" value="DMEKU34QSMP3A" />
+                        <input type="image"
+                               class="donate"
+                               src="https://pics.paypal.com/00/s/YzE5ZGRiZjQtMmRkYS00OGU3LTgwNDgtYzFhNjYxNDBhNjU1/file.PNG" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+                        <img alt="" border="0" src="https://www.paypal.com/en_UA/i/scr/pixel.gif" width="1" height="1" />
+                    </form>
+                </div>
+            </div>
+
 			<div class="columns medium-6">
 				<div class="search-box">
 					<?php get_search_form(); ?>

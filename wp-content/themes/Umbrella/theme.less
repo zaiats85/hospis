@@ -110,9 +110,22 @@ a.button:link , a.button:visited{
 }
 
 // Header
-
 #masthead{
-    background: #fafafa;
+    background: #007fb5;
+    @media only screen and (max-width: 640px) {
+        .columns:nth-of-type(2) {
+            background: #fafafa;
+        }
+    }
+
+    .donate-paypal {
+        margin: 20px 0;
+        text-align: center;
+        .donate {
+            max-width: 177px;
+        }
+    }
+
     .site-branding{
         h1.site-title{
             font-family:Oswald, sans-serif;
